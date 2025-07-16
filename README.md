@@ -2,7 +2,6 @@
 
 # 📦 Heaven Of Outfits – Online Clothing Store
 
-![Heaven of Outfits Screenshot](https://nayanbhadane72.github.io/Heaven-Of-Outfits/assets/images/home.jpg)
 
 A fully responsive and modern clothing e-commerce website designed and developed by **Nayan Bhadane**. This project showcases an intuitive UI, clean layout, and smooth navigation for a seamless user experience across devices.
 
